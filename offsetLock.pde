@@ -1,4 +1,4 @@
-//Running un chipKit uc32 !!!!
+//Running on chipKit uc32 !!!!
 
 
 #define LED 43
